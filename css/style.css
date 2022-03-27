@@ -3,7 +3,7 @@
     width: 500px;
     position: fixed;
     left: 20px;
-    top: 70px;
+    top: 90px;
 }
 .sample2{
     background-color: #b9caff;
@@ -18,7 +18,7 @@
     background-color: #ff8639;
     width: 500px;
     position: fixed;
-    top: 400px;
+    top: 460px;
     margin: 0px;
     padding: 15px;
     padding-top: 0px;
@@ -40,7 +40,7 @@ body{
     background-color: #333333;
     color: aliceblue;
     position:relative;
-    top: 380px;
+    top: 440px;
     margin: 0px;
     padding: 3px;
     padding-left: 15px;
