@@ -34,12 +34,3 @@ h1{
 body{
     margin: 0px;
 }
-.end{
-
-    background-color: #333333;
-    position:relative;
-    top: 360px;
-    margin: 0px;
-    padding: 3px;
-    padding-left: 15px;
-}
