@@ -1,0 +1,47 @@
+.sample1{
+    background-color: white;
+    width: 500px;
+    position: fixed;
+    left: 20px;
+    top: 70px;
+}
+.sample2{
+    background-color: #b9caff;
+    width: 200px;
+    position: fixed;
+    left: 530px;
+    top: 70px;
+    padding: 10px;
+    padding-top: 0px;
+}
+.sample3{
+    background-color: #ff8639;
+    width: 500px;
+    position: fixed;
+    top: 400px;
+    margin: 0px;
+    padding: 15px;
+    padding-top: 0px;
+}
+.header{
+    color: #6fac02;
+    font-size: 20px;
+}
+h1{
+    background-color: #eeeeee;
+    margin: 0px;
+    padding: 20px;
+}
+body{
+    margin: 0px;
+}
+.end{
+
+    background-color: #333333;
+    color: aliceblue;
+    position:relative;
+    top: 380px;
+    margin: 0px;
+    padding: 3px;
+    padding-left: 15px;
+}
